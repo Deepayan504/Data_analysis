@@ -2,3 +2,8 @@
 
 <img width="555" height="349" alt="Image" src="https://github.com/user-attachments/assets/e2e92ced-b5af-4166-a4fc-ccb313b09259" />
 <img width="837" height="507" alt="Image" src="https://github.com/user-attachments/assets/77a8424e-eabe-421f-89ba-58d3519a4966" />
+
+Rainfall
+
+<img width="555" height="360" alt="Image" src="https://github.com/user-attachments/assets/4b7288e3-fa20-4f59-a2a7-2858ef697469" />
+<img width="555" height="360" alt="Image" src="https://github.com/user-attachments/assets/e7242aaf-9f88-445c-8077-a1a0966c9fa8" />
