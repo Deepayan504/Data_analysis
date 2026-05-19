@@ -11,4 +11,6 @@ Rainfall
 
 
 SST Slope from 1854 - 2026
+
+
 <img width="640" height="480" alt="sst_slope" src="https://github.com/user-attachments/assets/70b7a359-b492-4a52-9732-d6576b4fff72" />
