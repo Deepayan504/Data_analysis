@@ -1,3 +1,4 @@
+
 # Data_analysis: Performing several statistical analysis on the data
 
 <img width="555" height="349" alt="Image" src="https://github.com/user-attachments/assets/e2e92ced-b5af-4166-a4fc-ccb313b09259" />
@@ -7,3 +8,7 @@ Rainfall
 
 <img width="555" height="360" alt="Image" src="https://github.com/user-attachments/assets/4b7288e3-fa20-4f59-a2a7-2858ef697469" />
 <img width="555" height="360" alt="Image" src="https://github.com/user-attachments/assets/e7242aaf-9f88-445c-8077-a1a0966c9fa8" />
+
+
+SST Slope from 1854 - 2026
+<img width="640" height="480" alt="sst_slope" src="https://github.com/user-attachments/assets/70b7a359-b492-4a52-9732-d6576b4fff72" />
